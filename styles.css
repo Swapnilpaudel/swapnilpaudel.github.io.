@@ -20,7 +20,7 @@
 }
 .key{
     height: calc(var(--width)*4);
-    width:var(--width)
+    width:var(--width);
 }
 .white{
     --width:100px;
